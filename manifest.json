@@ -1,0 +1,17 @@
+{
+    "name": "Prueba julian",
+    "short_name": "Prueba_julian",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./prueba2.png",
+            "type": "image/png",
+            "sizes": "248x249"
+        }
+    ]
+}
